@@ -13,6 +13,7 @@ STEPS TO EXECUTE
 
 PREREQUISITES
 - You need to have Mozilla Firefox installed
+- You need to have Java JDK installed and configured in the environment path
 
 TODO
 - Move sign in steps to a separate class since they can be reused by another test suites
